@@ -48,8 +48,10 @@ File handling in Python
 Directory management
 Using os and shutil modules
 Python automation fundamentals
-##Author
 
-###Gurnoor Singh Arora
+
+## Author
+
+**Gurnoor Singh Arora**
 
 ⭐ If you found this project useful, consider starring the repository.
